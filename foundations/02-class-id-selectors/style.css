@@ -1,0 +1,18 @@
+.numbered {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(241, 170, 170);
+}
+
+#second {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#third, #fourth{
+    font-size: 24px;
+}
+
+#fourth {
+    font-weight: bold;
+    background-color: hsl(120, 59%, 74%);
+}
